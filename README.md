@@ -1,7 +1,5 @@
 ### Aqui é Luís Holanda, Grüße Leute!⭐
 
-[![MasterHead](https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif)(https://github.com/LuisDeHolanda)
-
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADsmiguelteixeiraoficial/)
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis_vanholland_/?next=%2F)
